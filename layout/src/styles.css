@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.cmn-style-card {
+    border: 1px solid rgba(0, 0, 0, 0.125) !important;
+    border-radius: 3px !important;
+}
+.cmn-img-card {
+    height: 275px;
+    width: 585px;
+}
